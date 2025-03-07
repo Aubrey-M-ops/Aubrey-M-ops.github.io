@@ -1,0 +1,669 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>茄子酱的个人博客</title>
+  
+  
+  <link href="https://aubrey-m-ops.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://aubrey-m-ops.github.io/"/>
+  <updated>2022-07-16T13:05:22.000Z</updated>
+  <id>https://aubrey-m-ops.github.io/</id>
+  
+  <author>
+    <name>mohan li</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Final Essay of Software Project Manage</title>
+    <link href="https://aubrey-m-ops.github.io/2022/06/02/projectManage/FinalEssay/"/>
+    <id>https://aubrey-m-ops.github.io/2022/06/02/projectManage/FinalEssay/</id>
+    <published>2022-06-02T15:23:23.000Z</published>
+    <updated>2022-07-16T13:05:22.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1&gt;Final Essay&lt;/h1&gt;
+&lt;h2 id=&quot;Predictive-Life-Cycle&quot;&gt;Predictive Life Cycle&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;The scope of the project can be articulated</summary>
+        
+      
+    
+    
+    
+    <category term="软件项目管理" scheme="https://aubrey-m-ops.github.io/categories/%E8%BD%AF%E4%BB%B6%E9%A1%B9%E7%9B%AE%E7%AE%A1%E7%90%86/"/>
+    
+    
+    <category term="大二的回忆" scheme="https://aubrey-m-ops.github.io/tags/%E5%A4%A7%E4%BA%8C%E7%9A%84%E5%9B%9E%E5%BF%86/"/>
+    
+    <category term="大学笔记不完全整理" scheme="https://aubrey-m-ops.github.io/tags/%E5%A4%A7%E5%AD%A6%E7%AC%94%E8%AE%B0%E4%B8%8D%E5%AE%8C%E5%85%A8%E6%95%B4%E7%90%86/"/>
+    
+    <category term="2021年的春天" scheme="https://aubrey-m-ops.github.io/tags/2021%E5%B9%B4%E7%9A%84%E6%98%A5%E5%A4%A9/"/>
+    
+    <category term="软件项目管理" scheme="https://aubrey-m-ops.github.io/tags/%E8%BD%AF%E4%BB%B6%E9%A1%B9%E7%9B%AE%E7%AE%A1%E7%90%86/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Chapter 10（Operating System）</title>
+    <link href="https://aubrey-m-ops.github.io/2022/05/09/operatingSystem/os-chapter10/"/>
+    <id>https://aubrey-m-ops.github.io/2022/05/09/operatingSystem/os-chapter10/</id>
+    <published>2022-05-10T01:23:35.000Z</published>
+    <updated>2022-07-16T13:05:22.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;Chapter-10-Scheduling-Multiprocessor&quot;&gt;Chapter 10 Scheduling (Multiprocessor)&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Classifications of Multiprocessor</summary>
+        
+      
+    
+    
+    
+    <category term="操作系统" scheme="https://aubrey-m-ops.github.io/categories/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/"/>
+    
+    
+    <category term="大二的回忆" scheme="https://aubrey-m-ops.github.io/tags/%E5%A4%A7%E4%BA%8C%E7%9A%84%E5%9B%9E%E5%BF%86/"/>
+    
+    <category term="大学笔记不完全整理" scheme="https://aubrey-m-ops.github.io/tags/%E5%A4%A7%E5%AD%A6%E7%AC%94%E8%AE%B0%E4%B8%8D%E5%AE%8C%E5%85%A8%E6%95%B4%E7%90%86/"/>
+    
+    <category term="Mike的操作系统" scheme="https://aubrey-m-ops.github.io/tags/Mike%E7%9A%84%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Chapter 9（Operating System）</title>
+    <link href="https://aubrey-m-ops.github.io/2022/05/05/operatingSystem/os-chapter9/"/>
+    <id>https://aubrey-m-ops.github.io/2022/05/05/operatingSystem/os-chapter9/</id>
+    <published>2022-05-06T01:25:30.000Z</published>
+    <updated>2022-07-16T13:05:22.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;Chapter-9-Scheduling-Uniprocessor&quot;&gt;Chapter 9  Scheduling(Uniprocessor)&lt;/h2&gt;
+&lt;p&gt;这些调度表明了执行这些功能的相对时间比例&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Long-term</summary>
+        
+      
+    
+    
+    
+    <category term="操作系统" scheme="https://aubrey-m-ops.github.io/categories/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/"/>
+    
+    
+    <category term="大二的回忆" scheme="https://aubrey-m-ops.github.io/tags/%E5%A4%A7%E4%BA%8C%E7%9A%84%E5%9B%9E%E5%BF%86/"/>
+    
+    <category term="大学笔记不完全整理" scheme="https://aubrey-m-ops.github.io/tags/%E5%A4%A7%E5%AD%A6%E7%AC%94%E8%AE%B0%E4%B8%8D%E5%AE%8C%E5%85%A8%E6%95%B4%E7%90%86/"/>
+    
+    <category term="Mike的操作系统" scheme="https://aubrey-m-ops.github.io/tags/Mike%E7%9A%84%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Chapter 8（Operating System）</title>
+    <link href="https://aubrey-m-ops.github.io/2022/05/03/operatingSystem/os-chapter8/"/>
+    <id>https://aubrey-m-ops.github.io/2022/05/03/operatingSystem/os-chapter8/</id>
+    <published>2022-05-04T03:52:22.000Z</published>
+    <updated>2022-07-16T13:05:22.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;Chapter-8-Virtual-Memory&quot;&gt;Chapter 8: Virtual Memory&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;虚拟&lt;a</summary>
+        
+      
+    
+    
+    
+    <category term="操作系统" scheme="https://aubrey-m-ops.github.io/categories/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/"/>
+    
+    
+    <category term="大二的回忆" scheme="https://aubrey-m-ops.github.io/tags/%E5%A4%A7%E4%BA%8C%E7%9A%84%E5%9B%9E%E5%BF%86/"/>
+    
+    <category term="大学笔记不完全整理" scheme="https://aubrey-m-ops.github.io/tags/%E5%A4%A7%E5%AD%A6%E7%AC%94%E8%AE%B0%E4%B8%8D%E5%AE%8C%E5%85%A8%E6%95%B4%E7%90%86/"/>
+    
+    <category term="Mike的操作系统" scheme="https://aubrey-m-ops.github.io/tags/Mike%E7%9A%84%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Chapter 7（Operating System）</title>
+    <link href="https://aubrey-m-ops.github.io/2022/05/02/operatingSystem/os-chapter7/"/>
+    <id>https://aubrey-m-ops.github.io/2022/05/02/operatingSystem/os-chapter7/</id>
+    <published>2022-05-03T02:32:16.000Z</published>
+    <updated>2022-07-16T13:05:22.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;Chapter-7-Memory&quot;&gt;Chapter 7: Memory&lt;/h2&gt;
+&lt;h3 id=&quot;Memory-Management-Requirements&quot;&gt;Memory Management Requirements&lt;/h3&gt;
+&lt;h4</summary>
+        
+      
+    
+    
+    
+    <category term="操作系统" scheme="https://aubrey-m-ops.github.io/categories/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/"/>
+    
+    
+    <category term="大二的回忆" scheme="https://aubrey-m-ops.github.io/tags/%E5%A4%A7%E4%BA%8C%E7%9A%84%E5%9B%9E%E5%BF%86/"/>
+    
+    <category term="大学笔记不完全整理" scheme="https://aubrey-m-ops.github.io/tags/%E5%A4%A7%E5%AD%A6%E7%AC%94%E8%AE%B0%E4%B8%8D%E5%AE%8C%E5%85%A8%E6%95%B4%E7%90%86/"/>
+    
+    <category term="Mike的操作系统" scheme="https://aubrey-m-ops.github.io/tags/Mike%E7%9A%84%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Chapter 6（Operating System）</title>
+    <link href="https://aubrey-m-ops.github.io/2022/05/01/operatingSystem/os-chapter6/"/>
+    <id>https://aubrey-m-ops.github.io/2022/05/01/operatingSystem/os-chapter6/</id>
+    <published>2022-05-02T03:54:28.000Z</published>
+    <updated>2022-07-16T13:05:22.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;Chapter-6-Deadlock&quot;&gt;Chapter 6 Deadlock&lt;/h2&gt;
+&lt;p&gt;pthread_join: 阻塞当前的线程，直到另外一个线程运行结束&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Mutex&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;•Used to</summary>
+        
+      
+    
+    
+    
+    <category term="操作系统" scheme="https://aubrey-m-ops.github.io/categories/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/"/>
+    
+    
+    <category term="大二的回忆" scheme="https://aubrey-m-ops.github.io/tags/%E5%A4%A7%E4%BA%8C%E7%9A%84%E5%9B%9E%E5%BF%86/"/>
+    
+    <category term="大学笔记不完全整理" scheme="https://aubrey-m-ops.github.io/tags/%E5%A4%A7%E5%AD%A6%E7%AC%94%E8%AE%B0%E4%B8%8D%E5%AE%8C%E5%85%A8%E6%95%B4%E7%90%86/"/>
+    
+    <category term="Mike的操作系统" scheme="https://aubrey-m-ops.github.io/tags/Mike%E7%9A%84%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Chapter 5（Operating System）</title>
+    <link href="https://aubrey-m-ops.github.io/2022/04/29/operatingSystem/os-chapter5/"/>
+    <id>https://aubrey-m-ops.github.io/2022/04/29/operatingSystem/os-chapter5/</id>
+    <published>2022-04-29T20:34:54.000Z</published>
+    <updated>2022-07-16T13:05:22.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;Chapter-5-Concurrency&quot;&gt;Chapter 5 : Concurrency&lt;/h2&gt;
+&lt;p&gt;并发会在三种context中出现&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Multiple Applications</summary>
+        
+      
+    
+    
+    
+    <category term="操作系统" scheme="https://aubrey-m-ops.github.io/categories/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/"/>
+    
+    
+    <category term="大二的回忆" scheme="https://aubrey-m-ops.github.io/tags/%E5%A4%A7%E4%BA%8C%E7%9A%84%E5%9B%9E%E5%BF%86/"/>
+    
+    <category term="大学笔记不完全整理" scheme="https://aubrey-m-ops.github.io/tags/%E5%A4%A7%E5%AD%A6%E7%AC%94%E8%AE%B0%E4%B8%8D%E5%AE%8C%E5%85%A8%E6%95%B4%E7%90%86/"/>
+    
+    <category term="Mike的操作系统" scheme="https://aubrey-m-ops.github.io/tags/Mike%E7%9A%84%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Chapter 4（Operating System）</title>
+    <link href="https://aubrey-m-ops.github.io/2022/04/16/operatingSystem/os-chapter4/"/>
+    <id>https://aubrey-m-ops.github.io/2022/04/16/operatingSystem/os-chapter4/</id>
+    <published>2022-04-16T11:45:48.000Z</published>
+    <updated>2022-07-16T13:05:22.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;Chapter-4-Threads&quot;&gt;Chapter 4 : Threads&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&quot;/images/typora/image-20210527121137006.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;h3</summary>
+        
+      
+    
+    
+    
+    <category term="操作系统" scheme="https://aubrey-m-ops.github.io/categories/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/"/>
+    
+    
+    <category term="大二的回忆" scheme="https://aubrey-m-ops.github.io/tags/%E5%A4%A7%E4%BA%8C%E7%9A%84%E5%9B%9E%E5%BF%86/"/>
+    
+    <category term="大学笔记不完全整理" scheme="https://aubrey-m-ops.github.io/tags/%E5%A4%A7%E5%AD%A6%E7%AC%94%E8%AE%B0%E4%B8%8D%E5%AE%8C%E5%85%A8%E6%95%B4%E7%90%86/"/>
+    
+    <category term="Mike的操作系统" scheme="https://aubrey-m-ops.github.io/tags/Mike%E7%9A%84%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Chapter 3（Operating System）</title>
+    <link href="https://aubrey-m-ops.github.io/2022/04/13/operatingSystem/os-chapter3/"/>
+    <id>https://aubrey-m-ops.github.io/2022/04/13/operatingSystem/os-chapter3/</id>
+    <published>2022-04-13T12:34:10.000Z</published>
+    <updated>2022-07-16T13:05:22.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;Chapter-3-Process&quot;&gt;Chapter 3 : Process&lt;/h2&gt;
+&lt;h3 id=&quot;Process-Element&quot;&gt;Process Element&lt;/h3&gt;
+&lt;p&gt;OS keep track of the process using</summary>
+        
+      
+    
+    
+    
+    <category term="操作系统" scheme="https://aubrey-m-ops.github.io/categories/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/"/>
+    
+    
+    <category term="大二的回忆" scheme="https://aubrey-m-ops.github.io/tags/%E5%A4%A7%E4%BA%8C%E7%9A%84%E5%9B%9E%E5%BF%86/"/>
+    
+    <category term="大学笔记不完全整理" scheme="https://aubrey-m-ops.github.io/tags/%E5%A4%A7%E5%AD%A6%E7%AC%94%E8%AE%B0%E4%B8%8D%E5%AE%8C%E5%85%A8%E6%95%B4%E7%90%86/"/>
+    
+    <category term="Mike的操作系统" scheme="https://aubrey-m-ops.github.io/tags/Mike%E7%9A%84%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Chapter2（Operating System）</title>
+    <link href="https://aubrey-m-ops.github.io/2022/04/12/operatingSystem/os-chapter2/"/>
+    <id>https://aubrey-m-ops.github.io/2022/04/12/operatingSystem/os-chapter2/</id>
+    <published>2022-04-12T15:23:13.000Z</published>
+    <updated>2022-07-16T13:05:22.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;Chapter-2&quot;&gt;Chapter 2&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;OS&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;A program that &lt;strong&gt;controls&lt;/strong&gt; the execution</summary>
+        
+      
+    
+    
+    
+    <category term="操作系统" scheme="https://aubrey-m-ops.github.io/categories/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/"/>
+    
+    
+    <category term="大二的回忆" scheme="https://aubrey-m-ops.github.io/tags/%E5%A4%A7%E4%BA%8C%E7%9A%84%E5%9B%9E%E5%BF%86/"/>
+    
+    <category term="大学笔记不完全整理" scheme="https://aubrey-m-ops.github.io/tags/%E5%A4%A7%E5%AD%A6%E7%AC%94%E8%AE%B0%E4%B8%8D%E5%AE%8C%E5%85%A8%E6%95%B4%E7%90%86/"/>
+    
+    <category term="Mike的操作系统" scheme="https://aubrey-m-ops.github.io/tags/Mike%E7%9A%84%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Chapter 1（Operating System）</title>
+    <link href="https://aubrey-m-ops.github.io/2022/04/09/operatingSystem/os-chapter1/"/>
+    <id>https://aubrey-m-ops.github.io/2022/04/09/operatingSystem/os-chapter1/</id>
+    <published>2022-04-09T16:43:23.000Z</published>
+    <updated>2022-07-16T13:05:22.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;Chapter-1&quot;&gt;Chapter 1&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;4 Components&lt;/strong&gt; : &lt;code&gt;CPU&lt;/code&gt; &lt;code&gt;Main Memory&lt;/code&gt; &lt;code&gt;I/O Modules&lt;/code&gt;</summary>
+        
+      
+    
+    
+    
+    <category term="操作系统" scheme="https://aubrey-m-ops.github.io/categories/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/"/>
+    
+    
+    <category term="大二的回忆" scheme="https://aubrey-m-ops.github.io/tags/%E5%A4%A7%E4%BA%8C%E7%9A%84%E5%9B%9E%E5%BF%86/"/>
+    
+    <category term="大学笔记不完全整理" scheme="https://aubrey-m-ops.github.io/tags/%E5%A4%A7%E5%AD%A6%E7%AC%94%E8%AE%B0%E4%B8%8D%E5%AE%8C%E5%85%A8%E6%95%B4%E7%90%86/"/>
+    
+    <category term="Mike的操作系统" scheme="https://aubrey-m-ops.github.io/tags/Mike%E7%9A%84%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Chapter 6（Digital Design and Computer Architecture）</title>
+    <link href="https://aubrey-m-ops.github.io/2022/04/02/computerComposit/Chapter%206/"/>
+    <id>https://aubrey-m-ops.github.io/2022/04/02/computerComposit/Chapter%206/</id>
+    <published>2022-04-02T16:45:13.000Z</published>
+    <updated>2025-03-07T07:16:32.007Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1&gt;&lt;em&gt;&lt;strong&gt;Chapter 6&lt;/strong&gt;&lt;/em&gt;&lt;/h1&gt;
+&lt;h2 id=&quot;Introduction&quot;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;Computer performance depends on:&lt;br&gt;
+&lt;strong&gt;–</summary>
+        
+      
+    
+    
+    
+    <category term="计算机组成原理" scheme="https://aubrey-m-ops.github.io/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86/"/>
+    
+    
+    <category term="大二的回忆" scheme="https://aubrey-m-ops.github.io/tags/%E5%A4%A7%E4%BA%8C%E7%9A%84%E5%9B%9E%E5%BF%86/"/>
+    
+    <category term="2020年的冬天" scheme="https://aubrey-m-ops.github.io/tags/2020%E5%B9%B4%E7%9A%84%E5%86%AC%E5%A4%A9/"/>
+    
+    <category term="计算机组成原理" scheme="https://aubrey-m-ops.github.io/tags/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86/"/>
+    
+    <category term="大学笔记不完全整理" scheme="https://aubrey-m-ops.github.io/tags/%E5%A4%A7%E5%AD%A6%E7%AC%94%E8%AE%B0%E4%B8%8D%E5%AE%8C%E5%85%A8%E6%95%B4%E7%90%86/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Chapter 5（Digital Design and Computer Architecture）</title>
+    <link href="https://aubrey-m-ops.github.io/2022/03/28/computerComposit/Chapter%205/"/>
+    <id>https://aubrey-m-ops.github.io/2022/03/28/computerComposit/Chapter%205/</id>
+    <published>2022-03-28T06:34:54.000Z</published>
+    <updated>2025-03-07T07:16:32.007Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1&gt;&lt;em&gt;Chapter 5&lt;/em&gt;&lt;/h1&gt;
+&lt;h2 id=&quot;Performance-Analysis&quot;&gt;Performance Analysis&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;•Definitions:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;–CPI: Cycles</summary>
+        
+      
+    
+    
+    
+    <category term="计算机组成原理" scheme="https://aubrey-m-ops.github.io/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86/"/>
+    
+    
+    <category term="大二的回忆" scheme="https://aubrey-m-ops.github.io/tags/%E5%A4%A7%E4%BA%8C%E7%9A%84%E5%9B%9E%E5%BF%86/"/>
+    
+    <category term="2020年的冬天" scheme="https://aubrey-m-ops.github.io/tags/2020%E5%B9%B4%E7%9A%84%E5%86%AC%E5%A4%A9/"/>
+    
+    <category term="计算机组成原理" scheme="https://aubrey-m-ops.github.io/tags/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86/"/>
+    
+    <category term="大学笔记不完全整理" scheme="https://aubrey-m-ops.github.io/tags/%E5%A4%A7%E5%AD%A6%E7%AC%94%E8%AE%B0%E4%B8%8D%E5%AE%8C%E5%85%A8%E6%95%B4%E7%90%86/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Chapter 4（Digital Design and Computer Architecture）</title>
+    <link href="https://aubrey-m-ops.github.io/2022/03/10/computerComposit/Chapter%204/"/>
+    <id>https://aubrey-m-ops.github.io/2022/03/10/computerComposit/Chapter%204/</id>
+    <published>2022-03-11T04:24:12.000Z</published>
+    <updated>2025-03-07T07:16:32.007Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1&gt;&lt;em&gt;Chapter 4&lt;/em&gt;&lt;/h1&gt;
+&lt;h2 id=&quot;Assembly-Language&quot;&gt;Assembly Language&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;MIPS&lt;/strong&gt; architecture&lt;/p&gt;
+&lt;h3</summary>
+        
+      
+    
+    
+    
+    <category term="计算机组成原理" scheme="https://aubrey-m-ops.github.io/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86/"/>
+    
+    
+    <category term="大二的回忆" scheme="https://aubrey-m-ops.github.io/tags/%E5%A4%A7%E4%BA%8C%E7%9A%84%E5%9B%9E%E5%BF%86/"/>
+    
+    <category term="2020年的冬天" scheme="https://aubrey-m-ops.github.io/tags/2020%E5%B9%B4%E7%9A%84%E5%86%AC%E5%A4%A9/"/>
+    
+    <category term="计算机组成原理" scheme="https://aubrey-m-ops.github.io/tags/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86/"/>
+    
+    <category term="大学笔记不完全整理" scheme="https://aubrey-m-ops.github.io/tags/%E5%A4%A7%E5%AD%A6%E7%AC%94%E8%AE%B0%E4%B8%8D%E5%AE%8C%E5%85%A8%E6%95%B4%E7%90%86/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Chapter 3（Digital Design and Computer Architecture）</title>
+    <link href="https://aubrey-m-ops.github.io/2022/03/01/computerComposit/Chapter%203/"/>
+    <id>https://aubrey-m-ops.github.io/2022/03/01/computerComposit/Chapter%203/</id>
+    <published>2022-03-02T01:42:11.000Z</published>
+    <updated>2025-03-07T07:16:32.007Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1&gt;&lt;em&gt;&lt;strong&gt;Chapter 3&lt;/strong&gt;&lt;/em&gt;&lt;/h1&gt;
+&lt;h2 id=&quot;Sequential-Logic-Circuits&quot;&gt;Sequential Logic Circuits&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Give sequence to</summary>
+        
+      
+    
+    
+    
+    <category term="计算机组成原理" scheme="https://aubrey-m-ops.github.io/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86/"/>
+    
+    
+    <category term="大二的回忆" scheme="https://aubrey-m-ops.github.io/tags/%E5%A4%A7%E4%BA%8C%E7%9A%84%E5%9B%9E%E5%BF%86/"/>
+    
+    <category term="2020年的冬天" scheme="https://aubrey-m-ops.github.io/tags/2020%E5%B9%B4%E7%9A%84%E5%86%AC%E5%A4%A9/"/>
+    
+    <category term="计算机组成原理" scheme="https://aubrey-m-ops.github.io/tags/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86/"/>
+    
+    <category term="大学笔记不完全整理" scheme="https://aubrey-m-ops.github.io/tags/%E5%A4%A7%E5%AD%A6%E7%AC%94%E8%AE%B0%E4%B8%8D%E5%AE%8C%E5%85%A8%E6%95%B4%E7%90%86/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Chapter 1（Digital Design and Computer Architecture）</title>
+    <link href="https://aubrey-m-ops.github.io/2022/02/17/computerComposit/Chapter%201/"/>
+    <id>https://aubrey-m-ops.github.io/2022/02/17/computerComposit/Chapter%201/</id>
+    <published>2022-02-17T17:43:42.000Z</published>
+    <updated>2025-03-07T07:16:32.006Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1&gt;&lt;em&gt;Chapter 1&lt;/em&gt;&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;generations of computer&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Vacuum Tubes&lt;/li&gt;
+&lt;li&gt;Transistors&lt;/li&gt;
+&lt;li&gt;SSI/MSI</summary>
+        
+      
+    
+    
+    
+    <category term="计算机组成原理" scheme="https://aubrey-m-ops.github.io/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86/"/>
+    
+    
+    <category term="大二的回忆" scheme="https://aubrey-m-ops.github.io/tags/%E5%A4%A7%E4%BA%8C%E7%9A%84%E5%9B%9E%E5%BF%86/"/>
+    
+    <category term="2020年的冬天" scheme="https://aubrey-m-ops.github.io/tags/2020%E5%B9%B4%E7%9A%84%E5%86%AC%E5%A4%A9/"/>
+    
+    <category term="计算机组成原理" scheme="https://aubrey-m-ops.github.io/tags/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86/"/>
+    
+    <category term="大学笔记不完全整理" scheme="https://aubrey-m-ops.github.io/tags/%E5%A4%A7%E5%AD%A6%E7%AC%94%E8%AE%B0%E4%B8%8D%E5%AE%8C%E5%85%A8%E6%95%B4%E7%90%86/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Chapter 2（Digital Design and Computer Architecture）</title>
+    <link href="https://aubrey-m-ops.github.io/2022/02/02/computerComposit/Chapter%202/"/>
+    <id>https://aubrey-m-ops.github.io/2022/02/02/computerComposit/Chapter%202/</id>
+    <published>2022-02-02T14:34:12.000Z</published>
+    <updated>2025-03-07T07:16:32.006Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1&gt;&lt;em&gt;&lt;strong&gt;Chapter 2&lt;/strong&gt;&lt;/em&gt;&lt;/h1&gt;
+&lt;h2 id=&quot;Logic-circuit&quot;&gt;Logic circuit&lt;/h2&gt;
+&lt;h3</summary>
+        
+      
+    
+    
+    
+    <category term="计算机组成原理" scheme="https://aubrey-m-ops.github.io/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86/"/>
+    
+    
+    <category term="大二的回忆" scheme="https://aubrey-m-ops.github.io/tags/%E5%A4%A7%E4%BA%8C%E7%9A%84%E5%9B%9E%E5%BF%86/"/>
+    
+    <category term="2020年的冬天" scheme="https://aubrey-m-ops.github.io/tags/2020%E5%B9%B4%E7%9A%84%E5%86%AC%E5%A4%A9/"/>
+    
+    <category term="计算机组成原理" scheme="https://aubrey-m-ops.github.io/tags/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86/"/>
+    
+    <category term="大学笔记不完全整理" scheme="https://aubrey-m-ops.github.io/tags/%E5%A4%A7%E5%AD%A6%E7%AC%94%E8%AE%B0%E4%B8%8D%E5%AE%8C%E5%85%A8%E6%95%B4%E7%90%86/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Chapter 5: Design</title>
+    <link href="https://aubrey-m-ops.github.io/2022/01/25/srad/srad-c5/"/>
+    <id>https://aubrey-m-ops.github.io/2022/01/25/srad/srad-c5/</id>
+    <published>2022-01-25T20:54:29.000Z</published>
+    <updated>2022-07-16T13:05:22.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;Chapter-5-Design&quot;&gt;&lt;em&gt;Chapter 5&lt;/em&gt;     Design&lt;/h2&gt;
+&lt;h3 id=&quot;Advanced-class-modeling&quot;&gt;Advanced class modeling&lt;/h3&gt;
+&lt;h4</summary>
+        
+      
+    
+    
+    
+    <category term="软件需求分析" scheme="https://aubrey-m-ops.github.io/categories/%E8%BD%AF%E4%BB%B6%E9%9C%80%E6%B1%82%E5%88%86%E6%9E%90/"/>
+    
+    
+    <category term="大二的回忆" scheme="https://aubrey-m-ops.github.io/tags/%E5%A4%A7%E4%BA%8C%E7%9A%84%E5%9B%9E%E5%BF%86/"/>
+    
+    <category term="2020年的冬天" scheme="https://aubrey-m-ops.github.io/tags/2020%E5%B9%B4%E7%9A%84%E5%86%AC%E5%A4%A9/"/>
+    
+    <category term="大学笔记不完全整理" scheme="https://aubrey-m-ops.github.io/tags/%E5%A4%A7%E5%AD%A6%E7%AC%94%E8%AE%B0%E4%B8%8D%E5%AE%8C%E5%85%A8%E6%95%B4%E7%90%86/"/>
+    
+    <category term="Thomas的软需" scheme="https://aubrey-m-ops.github.io/tags/Thomas%E7%9A%84%E8%BD%AF%E9%9C%80/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Chapter 4: Requirements Specification</title>
+    <link href="https://aubrey-m-ops.github.io/2022/01/08/srad/srad-c4/"/>
+    <id>https://aubrey-m-ops.github.io/2022/01/08/srad/srad-c4/</id>
+    <published>2022-01-09T00:33:32.000Z</published>
+    <updated>2022-07-16T13:05:22.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;Chapter-4-Requirements-Specification&quot;&gt;&lt;em&gt;Chapter 4&lt;/em&gt;     Requirements Specification&lt;/h2&gt;
+&lt;h3</summary>
+        
+      
+    
+    
+    
+    <category term="软件需求分析" scheme="https://aubrey-m-ops.github.io/categories/%E8%BD%AF%E4%BB%B6%E9%9C%80%E6%B1%82%E5%88%86%E6%9E%90/"/>
+    
+    
+    <category term="大二的回忆" scheme="https://aubrey-m-ops.github.io/tags/%E5%A4%A7%E4%BA%8C%E7%9A%84%E5%9B%9E%E5%BF%86/"/>
+    
+    <category term="2020年的冬天" scheme="https://aubrey-m-ops.github.io/tags/2020%E5%B9%B4%E7%9A%84%E5%86%AC%E5%A4%A9/"/>
+    
+    <category term="大学笔记不完全整理" scheme="https://aubrey-m-ops.github.io/tags/%E5%A4%A7%E5%AD%A6%E7%AC%94%E8%AE%B0%E4%B8%8D%E5%AE%8C%E5%85%A8%E6%95%B4%E7%90%86/"/>
+    
+    <category term="Thomas的软需" scheme="https://aubrey-m-ops.github.io/tags/Thomas%E7%9A%84%E8%BD%AF%E9%9C%80/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Chapter 3: Modeling</title>
+    <link href="https://aubrey-m-ops.github.io/2021/12/25/srad/srad-c3/"/>
+    <id>https://aubrey-m-ops.github.io/2021/12/25/srad/srad-c3/</id>
+    <published>2021-12-25T15:12:30.000Z</published>
+    <updated>2022-07-16T13:05:22.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;Chapter-3-Modeling&quot;&gt;&lt;em&gt;Chapter 3&lt;/em&gt;	 Modeling&lt;/h2&gt;
+&lt;h3 id=&quot;Abstraction-Modeling&quot;&gt;Abstraction &amp;amp; Modeling&lt;/h3&gt;
+&lt;h4</summary>
+        
+      
+    
+    
+    
+    <category term="软件需求分析" scheme="https://aubrey-m-ops.github.io/categories/%E8%BD%AF%E4%BB%B6%E9%9C%80%E6%B1%82%E5%88%86%E6%9E%90/"/>
+    
+    
+    <category term="大二的回忆" scheme="https://aubrey-m-ops.github.io/tags/%E5%A4%A7%E4%BA%8C%E7%9A%84%E5%9B%9E%E5%BF%86/"/>
+    
+    <category term="2020年的冬天" scheme="https://aubrey-m-ops.github.io/tags/2020%E5%B9%B4%E7%9A%84%E5%86%AC%E5%A4%A9/"/>
+    
+    <category term="大学笔记不完全整理" scheme="https://aubrey-m-ops.github.io/tags/%E5%A4%A7%E5%AD%A6%E7%AC%94%E8%AE%B0%E4%B8%8D%E5%AE%8C%E5%85%A8%E6%95%B4%E7%90%86/"/>
+    
+    <category term="Thomas的软需" scheme="https://aubrey-m-ops.github.io/tags/Thomas%E7%9A%84%E8%BD%AF%E9%9C%80/"/>
+    
+  </entry>
+  
+</feed>
